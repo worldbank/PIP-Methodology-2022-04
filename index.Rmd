@@ -39,6 +39,13 @@ text-align: justify}
 knitr::opts_chunk$set(echo = TRUE) 
 ```
 
+<!-- ::: {.rmdbox .rmdwarning} -->
+<!-- DISCLAIMER: This book contains information relevant exclusively for the internal -->
+<!-- Technical team of the PIP project. It has been made available to the public for -->
+<!-- the sake of transparency, but its information has no use outside the internal -->
+<!-- team. -->
+<!-- ::: -->
+
 *Suggested citation: World Bank. 2022. "Poverty and Inequality Platform
 Methodology Handbook." Edition 2022-04. Available at
 [<https://worldbank.github.io/PIP-Methodology-2022-04>](https://worldbank.github.io/PIP-Methodology/index.html).*
